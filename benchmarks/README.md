@@ -12,7 +12,7 @@ and we've configured it in [asv.conf.json](../asv.conf.json).
 We strongly recommend running `asv run --help` for a full list of options, but
 here are some common actions:
 
-* You can run the benchmarks against the `master` branch with `asv run`.
+* You can run the benchmarks against the `main` branch with `asv run`.
 * To test the most recent commit on your branch `asv run HEAD^!`.
 * To generate a static website for browsing the results, run `asv publish`. The resulting HTML can be found in `benchmarks/html`.
 

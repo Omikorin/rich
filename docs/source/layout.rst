@@ -139,4 +139,4 @@ To help visualize complex layouts you can print the ``tree`` attribute which wil
 Example
 -------
 
-See `fullscreen.py <https://github.com/willmcgugan/rich/blob/master/examples/fullscreen.py>`_ for an example that combines :class:`~rich.layout.Layout` and :class:`~rich.live.Live` to create a fullscreen "application".
+See `fullscreen.py <https://github.com/willmcgugan/rich/blob/main/examples/fullscreen.py>`_ for an example that combines :class:`~rich.layout.Layout` and :class:`~rich.live.Live` to create a fullscreen "application".

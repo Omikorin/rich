@@ -6,7 +6,7 @@ For new features or if there is any doubt in how to fix a bug, you might want
 to open an issue prior to starting work, or email willmcgugan+rich@gmail.com
 to discuss it first.
 
-See also [AI_POLICY.md](https://github.com/Textualize/rich/blob/master/AI_POLICY.md) if you will be using AI.
+See also [AI_POLICY.md](https://github.com/Textualize/rich/blob/main/AI_POLICY.md) if you will be using AI.
 
 ## Prerequisites
 
@@ -145,5 +145,5 @@ There may be some discussion and, in most cases, a few iterations will be requir
 
 ## Afterwards
 
-When the pull request is approved, it will be merged into the `master` branch.
+When the pull request is approved, it will be merged into the `main` branch.
 Your change will only be available to users the next time Rich is released.

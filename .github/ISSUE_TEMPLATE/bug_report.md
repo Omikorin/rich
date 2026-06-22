@@ -7,7 +7,7 @@ assignees: ""
 ---
 
 - [ ] I've checked [docs](https://rich.readthedocs.io/en/latest/introduction.html) and [closed issues](https://github.com/Textualize/rich/issues?q=is%3Aissue+is%3Aclosed) for possible solutions.
-- [ ] I can't find my issue in the [FAQ](https://github.com/Textualize/rich/blob/master/FAQ.md).
+- [ ] I can't find my issue in the [FAQ](https://github.com/Textualize/rich/blob/main/FAQ.md).
 
 <!-- 
 WAIT! Is this a feature request?
