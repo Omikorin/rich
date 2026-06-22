@@ -157,6 +157,6 @@ Prior to version 14.0.0 this would have resulted in a :class:`~rich.errors.LiveE
 Examples
 --------
 
-See `table_movie.py <https://github.com/willmcgugan/rich/blob/main/examples/table_movie.py>`_ and
-`top_lite_simulator.py <https://github.com/willmcgugan/rich/blob/main/examples/top_lite_simulator.py>`_
+See `table_movie.py <https://github.com/Textualize/rich/blob/main/examples/table_movie.py>`_ and
+`top_lite_simulator.py <https://github.com/Textualize/rich/blob/main/examples/top_lite_simulator.py>`_
 for deeper examples of live displaying.

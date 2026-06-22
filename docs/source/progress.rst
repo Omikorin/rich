@@ -262,7 +262,7 @@ Here's an example that reads a url from the internet::
 
 If you expect to be reading from multiple files, you can use :meth:`~rich.progress.Progress.open` or :meth:`~rich.progress.Progress.wrap_file` to add a file progress to an existing Progress instance.
 
-See `cp_progress.py <https://github.com/willmcgugan/rich/blob/main/examples/cp_progress.py>`_ for a minimal clone of the ``cp`` command which shows a progress bar as the file is copied.
+See `cp_progress.py <https://github.com/Textualize/rich/blob/main/examples/cp_progress.py>`_ for a minimal clone of the ``cp`` command which shows a progress bar as the file is copied.
 
 
 Nesting Progress bars
@@ -290,9 +290,9 @@ Note that if you nest progress bars like this, then the nested bars will updatin
 Multiple Progress
 -----------------
 
-You can't have different columns per task with a single Progress instance. However, you can have as many Progress instances as you like in a :ref:`live`. See `live_progress.py <https://github.com/willmcgugan/rich/blob/main/examples/live_progress.py>`_ and `dynamic_progress.py <https://github.com/willmcgugan/rich/blob/main/examples/dynamic_progress.py>`_ for examples of using multiple Progress instances.
+You can't have different columns per task with a single Progress instance. However, you can have as many Progress instances as you like in a :ref:`live`. See `live_progress.py <https://github.com/Textualize/rich/blob/main/examples/live_progress.py>`_ and `dynamic_progress.py <https://github.com/Textualize/rich/blob/main/examples/dynamic_progress.py>`_ for examples of using multiple Progress instances.
 
 Example
 -------
 
-See `downloader.py <https://github.com/willmcgugan/rich/blob/main/examples/downloader.py>`_ for a realistic application of a progress display. This script can download multiple concurrent files with a progress bar, transfer speed and file size.
+See `downloader.py <https://github.com/Textualize/rich/blob/main/examples/downloader.py>`_ for a realistic application of a progress display. This script can download multiple concurrent files with a progress bar, transfer speed and file size.

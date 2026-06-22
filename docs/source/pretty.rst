@@ -239,4 +239,4 @@ If you want to auto-generate the angular type of repr, then set ``angular=True``
 Example
 -------
 
-See `repr.py <https://github.com/willmcgugan/rich/blob/main/examples/repr.py>`_ for the example code used in this page.
+See `repr.py <https://github.com/Textualize/rich/blob/main/examples/repr.py>`_ for the example code used in this page.
